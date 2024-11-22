@@ -1,0 +1,14 @@
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+*.class
+*.jar
+.DS_Store
+*.iml
+*.xml
+.idea/
+out.*
+
+#ALl of the files we would want to ignore in our repository
